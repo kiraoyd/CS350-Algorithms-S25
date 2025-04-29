@@ -19,6 +19,6 @@ def main():
     table = [[-1]*(k+1) for _ in range(n+1)]
     print(n_choose_memo(n, k, table))
 
-main()
 
+main()
 
